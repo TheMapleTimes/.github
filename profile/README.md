@@ -2,6 +2,8 @@
 **The Maple Times**는 넥슨 메이플스토리(KMS) OpenAPI를 활용한 데이터 서비스 프로젝트입니다.  
 이곳은 대용량 게임 데이터를 다루기 위한 **백엔드 및 배치 시스템**과, <br/>생태계 기여를 위해 직접 개발한 **오픈소스 라이브러리**를 통합 관리하는 공간입니다.
 
+[홈페이지 바로가기](https://kmstimes.com/)  
+
 ## 🗺️ Project Architecture & Repositories
 
 ### 1. ⚙️ [Server](https://github.com/TheMapleTimes/Server) `서비스 코어 API`
